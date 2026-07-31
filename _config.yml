@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Jonah Francis Benedicto / Site Title"
+title                    : "Jonah Francis Benedicto / GitHub Pages"
 title_separator          : "-"
 name                     : &name "Jonah Francis Benedicto"
 description              : &description "Jonah Francis Benedicto academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -26,10 +26,10 @@ author:
   avatar           : "profile.png"
   name             : "Jonah Francis Benedicto"
   pronouns         : "he/him" 
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  bio              : "Bachelor of Computer Science"
+  location         : "Brisbane, Queensland, Australia"
   employer         : "The University of Queensland"
-  uri              : # URL
+  uri              : "https://jonahfrancisbenedicto.com"
   email            : "jonahfrancisbenedicto@outlook.com" 
 
   # Academic websites
